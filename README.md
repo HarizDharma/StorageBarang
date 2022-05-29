@@ -1,0 +1,2 @@
+# StorageBarang
+kotlin crus simple
